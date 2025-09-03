@@ -31,7 +31,7 @@ This project aims to build a robust binary classifier to predict breast cancer d
     *   Performed **Hyperparameter Tuning** using `GridSearchCV`.
 6.  **Visualization:** Plotted decision boundaries, confusion matrices, and learning curves.
 
-## 📈 Results
+##  Results
 
 The tuned Logistic Regression model achieved the following performance metrics on the test set:
 *   **Accuracy:** ~97%
@@ -39,7 +39,7 @@ The tuned Logistic Regression model achieved the following performance metrics o
 *   **Recall:** ~96%
 *   **F1-Score:** ~96%
 
-## ▶️ How to Run in Google Colab
+## ▶ How to Run in Google Colab
 
 1.  **Open Google Colab:** Go to [Google Colab](https://colab.research.google.com/) and create a new notebook.
 2.  **Copy the Code:** Copy the entire Python code block from the `Breast Cancer Detection using PCA.ipynb` file (or the section below) into a code cell in your Colab notebook.
