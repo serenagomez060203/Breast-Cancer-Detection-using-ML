@@ -15,7 +15,7 @@ This project aims to build a robust binary classifier to predict breast cancer d
 
 ## 📊 Dataset
 
-*   **Source:** Wisconsin Breast Cancer Diagnostic dataset (included as `cancer dataset.csv`).
+*   **Source:** Wisconsin Breast Cancer Diagnostic dataset (included as `b cancer dataset.csv`).
 *   **Features:** 30 numerical features (like `radius_mean`, `texture_mean`, `area_mean`, etc.) computed from cell nuclei images.
 *   **Target Variable:** `diagnosis` (M = Malignant, B = Benign).
 
