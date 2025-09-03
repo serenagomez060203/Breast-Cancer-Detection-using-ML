@@ -2,24 +2,24 @@
 
 A comprehensive machine learning project for classifying breast cancer diagnoses (Benign vs. Malignant) using the classic Wisconsin Breast Cancer Dataset. This project demonstrates a complete end-to-end workflow from data preprocessing to model deployment and evaluation.
 
-## 📋 Project Overview
+##  Project Overview
 
 This project aims to build a robust binary classifier to predict breast cancer diagnosis based on features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The models achieved high accuracy in distinguishing between malignant (M) and benign (B) tumors.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 *   **Programming Language:** Python
 *   **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 *   **ML Models:** Logistic Regression, Random Forest Classifier
 *   **Techniques:** Data Standardization, PCA, K-Fold Cross-Validation, Hyperparameter Tuning (GridSearchCV)
 
-## 📊 Dataset
+##  Dataset
 
 *   **Source:** Wisconsin Breast Cancer Diagnostic dataset (included as `b cancer dataset.csv`).
 *   **Features:** 30 numerical features (like `radius_mean`, `texture_mean`, `area_mean`, etc.) computed from cell nuclei images.
 *   **Target Variable:** `diagnosis` (M = Malignant, B = Benign).
 
-## 🧩 Project Steps
+##  Steps
 
 1.  **Data Loading & Cleaning:** Removed irrelevant columns (`id`, `Unnamed: 32`) and encoded the target variable.
 2.  **Exploratory Data Analysis (EDA):** Conducted univariate and bivariate analysis, including correlation heatmaps.
